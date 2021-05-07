@@ -62,6 +62,28 @@ p {
     background-position: center;
 }
 
+/*Main Content*/
+.maincontent {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.maincontent img {
+    max-height: 200px;
+}
+
+
+.maincontent h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -95,7 +117,7 @@ p {
 }
 
 
-/*Header alignment*/
+/*Aside alignment*/
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -108,25 +130,7 @@ p {
     max-width: 150px;
 }
 
-/*Main Content*/
-.maincontent {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-.maincontent img {
-    max-height: 200px;
-}
-
-
-.maincontent h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /*Footer*/
 .footer {
